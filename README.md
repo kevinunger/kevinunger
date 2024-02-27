@@ -1,1 +1,5 @@
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinunger&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/kevinunger)
+
+
+
+[![GitHub Overview Stats](https://github-readme-stats.vercel.app/api?username=kevinunger&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&theme=omni)](https://github.com/kevinunger#github-stats)
+
